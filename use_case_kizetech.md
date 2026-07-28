@@ -1,4 +1,4 @@
-# SƠ ĐỒ USE CASE — HỆ THỐNG XUẤT BẢN BLOG KIZETECH
+# SƠ ĐỒ USE CASE — BLOG KIZETECH
 
 > **Phạm vi:** tiếp nhận bài viết → kiểm duyệt bắt buộc → build/deploy → phục vụ EN/VI → thông báo công cụ tìm kiếm
 
